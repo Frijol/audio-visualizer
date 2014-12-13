@@ -22,6 +22,8 @@ I've found it working pretty well with a string of Christmas lights listening to
 1. If the lights don't flash, try switching the wires; it will only work in one direction.
 1. You might need to change the sound trigger value to better match the volume of your music.
 
+![](https://lh3.googleusercontent.com/-6G3xLObs8Fc/VIzGZ19_IwI/AAAAAAAALb4/0PYmgMY4aJg/w988-h556-no/20141213_143724.jpg)
+
 Good songs to visualize with it:
 * [Something in my Heart](https://www.youtube.com/watch?v=0_aFSNB8E5Y)
 * [Aware](https://www.youtube.com/watch?v=jLsB4rtK1vg)
