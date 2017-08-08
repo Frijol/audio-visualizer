@@ -1,6 +1,8 @@
 Audio Visualizer
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frijol/audio-visualizer.svg)](https://greenkeeper.io/)
+
 This is a simple audio visualizer that listens to ambient sound and flashes a string of lights in response.
 I've found it working pretty well with a string of Christmas lights listening to music on my laptop.
 
